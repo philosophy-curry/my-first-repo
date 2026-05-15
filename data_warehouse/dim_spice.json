@@ -1,0 +1,13 @@
+{
+  "table": "dim_spice",
+  "description": "スパイスディメンション",
+  "records": [
+    { "spice_id": "S01", "name": "garam masala",   "flavor": "warm_sweet",  "origin": "North India" },
+    { "spice_id": "S02", "name": "kasuri methi",   "flavor": "bitter_herb", "origin": "Punjab"      },
+    { "spice_id": "S03", "name": "Kashmiri chili", "flavor": "fruity_hot",  "origin": "Kashmir"     },
+    { "spice_id": "S04", "name": "cumin",          "flavor": "earthy",      "origin": "Pan-India"   },
+    { "spice_id": "S05", "name": "turmeric",       "flavor": "bitter",      "origin": "Pan-India"   },
+    { "spice_id": "S06", "name": "black pepper",   "flavor": "sharp_hot",   "origin": "South India" },
+    { "spice_id": "S07", "name": "kalpasi",        "flavor": "woody_resin", "origin": "Tamil Nadu"  }
+  ]
+}

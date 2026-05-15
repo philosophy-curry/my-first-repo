@@ -1,0 +1,56 @@
+{
+  "table": "fact_curry",
+  "description": "カレーファクトテーブル（正規化済み）",
+  "records": [
+    {
+      "curry_id":    "IC001",
+      "name":        "Butter Chicken",
+      "region_id":   "R01",
+      "base":        "tomato_cream",
+      "spice_level": 2,
+      "protein":     "chicken",
+      "is_vegetarian": false,
+      "spice_ids":   ["S01", "S02"]
+    },
+    {
+      "curry_id":    "IC002",
+      "name":        "Rogan Josh",
+      "region_id":   "R02",
+      "base":        "yogurt_onion",
+      "spice_level": 3,
+      "protein":     "lamb",
+      "is_vegetarian": false,
+      "spice_ids":   ["S03"]
+    },
+    {
+      "curry_id":    "IC003",
+      "name":        "Dal Tadka",
+      "region_id":   "R03",
+      "base":        "lentil",
+      "spice_level": 2,
+      "protein":     "none",
+      "is_vegetarian": true,
+      "spice_ids":   ["S04", "S05"]
+    },
+    {
+      "curry_id":    "IC004",
+      "name":        "Chettinad Chicken",
+      "region_id":   "R04",
+      "base":        "dry_spice",
+      "spice_level": 5,
+      "protein":     "chicken",
+      "is_vegetarian": false,
+      "spice_ids":   ["S06", "S07"]
+    },
+    {
+      "curry_id":    "IC005",
+      "name":        "Saag Paneer",
+      "region_id":   "R01",
+      "base":        "spinach",
+      "spice_level": 1,
+      "protein":     "paneer",
+      "is_vegetarian": true,
+      "spice_ids":   ["S01"]
+    }
+  ]
+}

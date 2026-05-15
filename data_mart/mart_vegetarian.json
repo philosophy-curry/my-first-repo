@@ -1,0 +1,25 @@
+{
+  "mart": "vegetarian_curries",
+  "description": "ベジタリアン向けカレー一覧（分析用）",
+  "records": [
+    {
+      "name": "Dal Tadka",
+      "region": "North India",
+      "spice_level": 2,
+      "base": "lentil",
+      "key_spices": [
+        "cumin",
+        "turmeric"
+      ]
+    },
+    {
+      "name": "Saag Paneer",
+      "region": "Punjab",
+      "spice_level": 1,
+      "base": "spinach",
+      "key_spices": [
+        "garam masala"
+      ]
+    }
+  ]
+}
