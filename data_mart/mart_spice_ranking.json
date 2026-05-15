@@ -1,0 +1,36 @@
+{
+  "mart": "spice_level_ranking",
+  "description": "辛さランキング（分析用）",
+  "records": [
+    {
+      "rank": 1,
+      "name": "Chettinad Chicken",
+      "spice_level": 5,
+      "region": "Tamil Nadu"
+    },
+    {
+      "rank": 2,
+      "name": "Rogan Josh",
+      "spice_level": 3,
+      "region": "Kashmir"
+    },
+    {
+      "rank": 3,
+      "name": "Butter Chicken",
+      "spice_level": 2,
+      "region": "Punjab"
+    },
+    {
+      "rank": 4,
+      "name": "Dal Tadka",
+      "spice_level": 2,
+      "region": "North India"
+    },
+    {
+      "rank": 5,
+      "name": "Saag Paneer",
+      "spice_level": 1,
+      "region": "Punjab"
+    }
+  ]
+}

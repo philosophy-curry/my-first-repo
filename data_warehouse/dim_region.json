@@ -1,0 +1,10 @@
+{
+  "table": "dim_region",
+  "description": "インド地域ディメンション",
+  "records": [
+    { "region_id": "R01", "region": "Punjab",      "cuisine_style": "Mughal",       "heat_profile": "moderate" },
+    { "region_id": "R02", "region": "Kashmir",     "cuisine_style": "Kashmiri",     "heat_profile": "moderate" },
+    { "region_id": "R03", "region": "North India", "cuisine_style": "Hindustani",   "heat_profile": "mild"     },
+    { "region_id": "R04", "region": "Tamil Nadu",  "cuisine_style": "Chettinad",    "heat_profile": "very_hot" }
+  ]
+}

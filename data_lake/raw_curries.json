@@ -1,0 +1,51 @@
+{
+  "source": "india_curry_raw",
+  "ingested_at": "2026-05-15",
+  "records": [
+    {
+      "id": "IC001",
+      "name": "Butter Chicken",
+      "region": "Punjab",
+      "base": "tomato_cream",
+      "spice_level": 2,
+      "main_protein": "chicken",
+      "key_spices": ["garam masala", "kasuri methi", "cardamom"]
+    },
+    {
+      "id": "IC002",
+      "name": "Rogan Josh",
+      "region": "Kashmir",
+      "base": "yogurt_onion",
+      "spice_level": 3,
+      "main_protein": "lamb",
+      "key_spices": ["Kashmiri chili", "fennel", "ginger"]
+    },
+    {
+      "id": "IC003",
+      "name": "Dal Tadka",
+      "region": "North India",
+      "base": "lentil",
+      "spice_level": 2,
+      "main_protein": "none",
+      "key_spices": ["cumin", "turmeric", "asafoetida"]
+    },
+    {
+      "id": "IC004",
+      "name": "Chettinad Chicken",
+      "region": "Tamil Nadu",
+      "base": "dry_spice",
+      "spice_level": 5,
+      "main_protein": "chicken",
+      "key_spices": ["kalpasi", "marathi mokku", "black pepper"]
+    },
+    {
+      "id": "IC005",
+      "name": "Saag Paneer",
+      "region": "Punjab",
+      "base": "spinach",
+      "spice_level": 1,
+      "main_protein": "paneer",
+      "key_spices": ["garam masala", "ginger", "garlic"]
+    }
+  ]
+}
